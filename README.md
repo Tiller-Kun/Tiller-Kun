@@ -1,5 +1,5 @@
 # 💫 A Little Bit About Me:
-🔭 Currently working on a sleek technical website!<br>🌱 Student learning more about medical software engineering
+🔭 Currently working on a sleek technical website!<br>🌱 Student exploring software engineering <br> 🦾 Passionate about bridging barriers and medical technology
 
 
 # 💻 Tech Stack:

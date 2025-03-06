@@ -1,5 +1,5 @@
 # ~ 💫 A Little Bit About Me 🚀 ~
-🔭 Currently working on a sleek technical website!<br>🌱 Student exploring software engineering <br> 🦾 Passionate about bridging barriers and medical technology
+🔭 Currently working on learning deeper java as well as senior citizen tech applications!<br> 🌱 Student exploring software engineering and technical consulting <br> 🦾 Passionate about bridging barriers and medical technology
 
 
 # 💻 Tech Stack:
@@ -8,7 +8,6 @@
 # 📊 GitHub Stats:
 
 <div style="overflow: hidden;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiller-Kun&theme=dark&hide_border=false" alt="Streak Stats" style="float: left; width: 45%; margin-right: 10%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiller-Kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="float: left; width: 32%;" />
 </div>
 

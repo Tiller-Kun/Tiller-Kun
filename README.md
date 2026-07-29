@@ -1,5 +1,5 @@
 # ~ 💫 A Little Bit About Me 🚀 ~
-🔭 Currently working on learning deeper java as well as senior citizen tech applications!<br> 🌱 Student exploring software engineering and technical consulting <br> 🦾 Passionate about bridging barriers and medical technology
+🔭 Currently working on learning further AI concepts as well as senior citizen tech applications!<br> 🌱 Student exploring software engineering and technical consulting <br> 🦾 Passionate about bridging barriers and medical/financial technology
 
 
 # 💻 Tech Stack:

@@ -1,5 +1,5 @@
 # ~ 💫 A Little Bit About Me 🚀 ~
-🔭 Currently working on learning further AI concepts as well as senior citizen tech applications!<br> 🌱 Student exploring software engineering and technical consulting <br> 🦾 Passionate about bridging barriers and medical/financial technology
+🔭 Currently working on learning further AI concepts at Yonsei while working as a technical consultant!<br> 🌱 Student exploring software engineering and technical consulting <br> 🦾 Passionate about bridging barriers particularly through medical/financial technology
 
 
 # 💻 Tech Stack:
@@ -7,9 +7,6 @@
 
 # 📊 GitHub Stats:
 
-<div style="overflow: hidden;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiller-Kun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="float: left; width: 32%;" />
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Tiller-Kun&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Tiller-Kun's GitHub Stats" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

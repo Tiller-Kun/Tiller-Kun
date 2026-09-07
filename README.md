@@ -7,6 +7,6 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tiller-Kun&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Tiller-Kun's GitHub Stats" />
+![Top Recent Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Tiller-Kun&theme=shadow)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and other resources! -->

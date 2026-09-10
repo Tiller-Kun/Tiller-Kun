@@ -1,5 +1,5 @@
 # ~ 💫 A Little Bit About Me 🚀 ~
-🔭 Currently working on learning further AI concepts at Yonsei while working as a technical consultant!<br> 🌱 Student exploring software engineering and technical consulting <br> 🦾 Passionate about bridging barriers particularly through medical/financial technology
+🔭 Currently working on learning further AI concepts at Yonsei while working as an abroad consultant!<br> 🌱 Student exploring software engineering and technical consulting <br> 🦾 Passionate about bridging barriers particularly through medical/financial technology
 
 
 # 💻 Tech Stack:
